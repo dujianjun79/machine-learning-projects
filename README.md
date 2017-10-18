@@ -1,2 +1,3 @@
 # machine-learning-projects
-This fold will include my machine-learning projects. Practice my model building skills and python programming skills.
+ann_preprocess.py: the preprocess of datsets for the artificial neural network
+decision_tree.py: implementation of decision tree with python and numpy
